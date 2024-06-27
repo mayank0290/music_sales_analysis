@@ -1,1 +1,0 @@
-# performing queries using POSTGRESQL 
