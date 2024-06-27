@@ -1,1 +1,1 @@
-# music_sales_analysis
+# performing queries using POSTGRESQL 
